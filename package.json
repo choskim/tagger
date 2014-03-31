@@ -1,0 +1,12 @@
+{
+  "name"       : "Cho's Tagger", 
+  "description": "Tags the part-of-speech for each token in a string",
+  "version"    : "0.0.1",
+  "readme"     : "TBD",
+  "repository" : "TBD", 
+  "dependencies": {
+    "express": "3.5.1",
+    "hbs"    : "2.0.0",
+    "pos"    : "0.1.5" 
+  }
+}
